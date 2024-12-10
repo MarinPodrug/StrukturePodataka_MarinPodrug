@@ -1,0 +1,6 @@
+2024-12-10
+Grozde, 10, 1
+Marmelada, 1, 6
+Caj, 2, 2
+Spageti, 1, 2
+Papar, 4, 1
